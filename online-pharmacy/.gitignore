@@ -1,0 +1,33 @@
+# Laravel / PHP
+/vendor/
+/.env
+.env.*
+.phpunit.result.cache
+/storage/*.key
+/storage/framework/cache/data/
+/storage/logs/
+/storage/debugbar/
+/bootstrap/cache/
+
+# Node / Frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+public/build/
+public/dist/
+public/hot
+public/storage
+*.map
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Cache
+*.cache
